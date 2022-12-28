@@ -1,0 +1,21 @@
+{
+	"name": "spacedmonkey/spacedmonkey-block-theme",
+	"description": "The block theme used for Spacedmonkey.com",
+	"homepage": "https://github.com/spacedmonkey/spacedmonkey-block-theme",
+	"version": "1.0.0",
+	"keywords": [
+		"wordpress"
+	],
+	"license": "GPL-2.0+",
+	"authors": [
+		{
+			"name":"Jonathan Harris",
+			"email":"jon@spacedmonkey.co.uk",
+			"homepage":"http://www.spacedmonkey.com"
+		}
+	],
+	"type": "wordpress-theme",
+	"require": {
+		"composer/installers": "~1.0"
+	 }
+}
